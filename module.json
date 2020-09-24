@@ -1,7 +1,7 @@
 {
   "name": "baileywiki-maps",
   "title": "Baileywiki Maps Pack",
-  "description": "<p>Immersive, modular and upgradable battlemaps with advanced Foundry VTT integration featuring optional modules like Multilevel Tokens, Dancing Lights and Parallaxia. Go to Patreon.com/baileywiki/ to support this project, get upgrade content, and download original map files.</p>",
+  "description": "<p>short description.</p>",
   "version": "0.1.0",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "1.0.0",
